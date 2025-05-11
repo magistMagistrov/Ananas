@@ -1,0 +1,403 @@
+.cartinka1{
+width: 350px;
+height: 250px;
+}
+
+.cartinka2{
+    width: 350px;
+    height: 250px;  
+}
+
+.cartinka3{
+    width: 350px;
+    height: 250px;  
+}
+.fgh123{
+    width: 100%;
+    position: sticky  !important;
+}
+
+.navbar-brand{
+width: 250px;
+height: 150px;
+}
+
+.klg{
+margin: auto;
+margin-top: 0;
+}
+
+.cnopka{
+width: 250px;
+height: 50px;
+background-color: blueviolet;
+border-radius: 15px 15px 15px 15px;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-left: 400px;
+}
+
+.slovo{
+color: white;
+text-align: center;
+margin: 0;
+}
+
+.cola{
+height: 500px;
+
+}
+
+.textic{
+color: black ;
+font-size: 50px;
+
+}
+
+.row q{
+height: 500px;
+}
+
+.textic2{
+    color: black ;
+    font-size: 30px; 
+}
+
+.textic{
+    color: black ;
+    font-size: 50px; 
+}
+
+.cnopca{
+width: 250px;
+height: 50px;
+background-color: blueviolet;
+border-radius: 15px 15px 15px 15px;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-bottom: 250px;
+}
+
+.textic4{
+color: white;
+margin: 0;
+}
+
+.ocole{
+height: 300px;
+}
+
+.textic5{
+    color: black ;
+    font-size: 60px; 
+font-weight: bold;
+}
+
+.wd1{
+    font-weight: bold;
+}
+
+.wd2{
+    font-weight: bold;
+}
+
+.wd3{
+    font-weight: bold;
+}
+
+.wd4{
+    font-weight: bold;
+}
+
+.wd5{
+    font-weight: bold;
+}
+
+.wd6{
+    font-weight: bold;
+}
+
+.col{
+background-color: bisque;
+border-radius: 5px 5px 5px 5px;
+}
+
+.opisanie{
+    height: 500px;
+    margin-top: 270px;
+}
+
+.ddd1{
+border-radius: 15px 15px 15px 15px;
+}
+
+.ddd2{
+    border-radius: 15px 15px 15px 15px;  
+}
+
+.a{
+    background-color: rgb(207, 207, 207);
+    border-radius:  15px 15px 15px 15px;
+   width: 430px;
+}
+
+.s{
+    background-color: rgb(207, 207, 207);
+    border-radius:  15px 15px 15px 15px;
+}
+
+.d{
+    background-color: rgb(207, 207, 207);
+    border-radius:  15px 15px 15px 15px;
+}
+
+.z{
+    background-color: rgb(207, 207, 207);
+    border-radius:  15px 15px 15px 15px;
+}
+
+.x{
+    background-color: rgb(207, 207, 207);
+    border-radius:  15px 15px 15px 15px;
+}
+
+.c{
+    background-color: rgb(207, 207, 207);
+    border-radius:  15px 15px 15px 15px;
+}
+
+.zx{
+    background-color: rgb(207, 207, 207);
+    border-radius:  15px 15px 15px 15px;
+}
+
+.xc{
+    background-color: rgb(207, 207, 207);
+    border-radius:  15px 15px 15px 15px;
+}
+
+.cv{
+    background-color: rgb(207, 207, 207);
+    border-radius:  15px 15px 15px 15px;
+    height: 72px;
+}
+
+.l{
+width: 500px;
+height: 90px;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: blueviolet;
+border-radius: 15px 15px 15px 15px;
+rotate: -4deg;
+}
+
+.ccc{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.aaa1{
+    font-weight: bold;  
+}
+
+.aaa2{
+    font-weight: bold;  
+}
+
+.aaa3{
+    font-weight: bold;  
+}
+
+.textdop{
+    color: black ;
+    font-size: 60px; 
+font-weight: bold;
+}
+
+.dopgl{
+height: 150px;
+}
+
+.textlvl{
+    color: black ;
+    font-size: 30px; 
+font-weight: bold;  
+}
+
+.lvl{
+    background-color:rgb(222, 222, 222);
+    width: 150px;
+    height: 50px;
+    border-radius: 15px 15px 15px 15px;
+    rotate: -4deg;
+    margin-bottom: 15px;
+}
+
+.dopgl2{
+display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dopgl3{
+    display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .dopgl4{
+        display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+.linia{
+    margin-top: 50px ;
+}
+
+.doptext{
+    font-size: 20px; 
+}
+
+.f1{
+width: 350px;
+height: 350px;
+background-color: blueviolet;
+border-radius: 15px 15px 15px 15px;
+
+}
+
+.f2{
+    width: 350px;
+    height: 400px;
+    background-color: blueviolet;
+    border-radius: 15px 15px 15px 15px;
+    }
+
+    .f3{
+        width: 350px;
+        height: 350px;
+        background-color: blueviolet;
+        border-radius: 15px 15px 15px 15px;
+        }
+
+.fgl{
+    display: flex;
+    justify-content: space-between;
+}
+
+.lvl2{
+    background-color:rgb(222, 222, 222);
+    width: 150px;
+    height: 50px;
+    border-radius: 15px 15px 15px 15px;
+    rotate: -4deg;
+    margin-top: 15px;
+}
+
+.textlvl2{
+    color: black ;
+    font-size: 30px; 
+font-weight: bold;  
+}
+
+.lvl3{
+    background-color:rgb(222, 222, 222);
+    width: 150px;
+    height: 50px;
+    border-radius: 15px 15px 15px 15px;
+    rotate: -4deg;
+    margin-top: 15px;
+}
+
+.textlvl3{
+    color: black ;
+    font-size: 30px; 
+font-weight: bold;  
+}
+
+.bloc1{
+    width: 150px;
+    height: 25px;
+    background-color: yellow;
+    border-radius: 15px 15px 15px 15px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.bloc2{
+    width: 150px;
+    height: 25px;
+
+
+}
+
+.a1{
+    color: black ;
+    font-size: 20px; 
+font-weight: bold;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
